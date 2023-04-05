@@ -9,7 +9,7 @@ The app allows the restaurants to receive a direct online order from a customer.
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
 **MySQL Work:**<br />
-Data queries from MySQL can be found [here](solution/FoodHub Data Analysis.ipynb).
+Data queries from MySQL can be found [here](solution/FoodHub%20Data%20Analysis.ipynb).
 
 **Quarterly Business Report:**<br />
 Business metrics, insights, and recommendations were given in the [Quarterly Business Report](solution/submission_Derrick_Black_Slides.pdf).
